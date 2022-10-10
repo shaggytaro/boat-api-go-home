@@ -1,0 +1,21 @@
+{
+  "name": "boat-slip",
+  "version": "1.0.0",
+  "description": "boat-slip api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "prashant",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}

@@ -1,0 +1,16 @@
+[
+    {
+    "slipNumber": 1,
+    "vacant": false
+    },
+
+    {
+    "slipNumber": 2,
+    "vacant": true
+    },
+    
+    {
+    "slipNumber": 3,
+    "vacant": true
+    }
+]
